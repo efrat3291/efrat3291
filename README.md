@@ -29,3 +29,6 @@ I am an ambitious and goal-oriented Full Stack Developer, envisioning the perfec
 ---
 
 📧 **Reach me at**: [efrat79071@gmail.com](mailto:efrat79071@gmail.com)  
+
+---
+![Profile views](https://komarev.com/ghpvc/?username=Efrat3291)
